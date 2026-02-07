@@ -1126,6 +1126,9 @@
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
 
+# Sousou no Frieren -> ~ 2nd Season
+- 52991|46474|154587:29-38 -> 59978|49240|182255:1-10!
+
 # Sousou no Frieren: ●● no Mahou -> ~ Part 2
 - ?|?|170068:13-18 -> ?|?|189513:1-6!
 
